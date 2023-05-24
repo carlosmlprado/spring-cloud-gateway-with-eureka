@@ -15,6 +15,6 @@ Send tests with Postman/Browser and check logs on Git or any Version Control you
 http://localhost:8074/dummy
 
 Tests will reach the Gateway then will send requests to dummy application in both ports.
-In logs We will can chack:
+In logs You can chack:
 Getting dummy list from port: 8055
 Getting dummy list from port: 8056
